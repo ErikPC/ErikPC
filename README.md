@@ -19,7 +19,6 @@
 	</a>
 	<a href="https://www.w3.org/Style/CSS/" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=50/>
-	<
     <a href="https://www.daringfireball.net/projects/markdown/" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width=50/>
 	</a>
