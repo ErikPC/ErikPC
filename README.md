@@ -34,3 +34,11 @@
     <a href="https://www.jupyter.org" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width=50/>
 	</a>
+    <a href="https://www.java.com" targer="blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width=50/>
+	</a>
+    <a href="https://www.javascript.com/" targer="blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript-original.svg" width=50/>
+	</a>
+
+    
