@@ -38,7 +38,7 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width=50/>
 	</a>
     <a href="https://www.javascript.com/" targer="blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript-original.svg" width=50/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=50/>
 	</a>
 
     
