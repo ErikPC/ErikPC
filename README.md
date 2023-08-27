@@ -4,9 +4,9 @@
 
 <img src="https://www.codewars.com/users/ErikPC/badges/small">
 
-* :microscope: Currently studying *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
+* :microscope: Passed *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
 
-* :mailbox: Email me at **epardillo@cifpfbmoll.eu** or **erikpardillochamorro@gmail.com**
+* :mailbox: Email me at **erikpardillochamorro@gmail.com**
 
 ### Languages and Tools I'm Familiar With:
 
